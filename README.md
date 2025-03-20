@@ -49,9 +49,8 @@ To make the site accessible over the internet, you can use tools like [ngrok](ht
 3. ngrok will provide a public URL that you can use to access your site.
 
 ### Using localhost.run
-### Using localhost.run
 
-1. Run the following command:
+1. Run the following command in a new terminal:
     ```bash
     ssh -R 80:0.0.0.0:8080 anythingyouwant@ssh.localhost.run
     ```
