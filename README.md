@@ -1,6 +1,6 @@
 # Estuphish
-
-                                                                                   
+<pre>
+                                                                                 
 @@@@@@@@   @@@@@@  @@@@@@@  @@@  @@@  @@@@@@@   @@@  @@@  @@@   @@@@@@   @@@  @@@  
 @@@@@@@@  @@@@@@@  @@@@@@@  @@@  @@@  @@@@@@@@  @@@  @@@  @@@  @@@@@@@   @@@  @@@  
 @@!       !@@        @@!    @@!  @@@  @@!  @@@  @@!  @@@  @@!  !@@       @@!  @@@  
@@ -12,6 +12,7 @@
  :: ::::  :::: ::     ::    ::::: ::   ::       ::   :::   ::  :::: ::   ::   :::  
 : :: ::   :: : :      :      : :  :    :         :   : :  :    :: : :     :   : :  
 
+</pre>
 Estuphish is a phishing simulation tool designed for educational purposes. This tool allows you to create and host phishing simulation sites on your local machine.
 
 ## Warning
